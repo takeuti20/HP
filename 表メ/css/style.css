@@ -1,0 +1,13 @@
+@charset "utf-8";
+@import url("reset.css");
+
+p {
+	font-size:1.5em;
+	border:double 10px #7fb3f3;
+	margin:20px;
+	padding:10px;
+	text-align:center;
+}
+body{
+	background:url(imges/haik.png);
+}
